@@ -1,0 +1,13 @@
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\bin\Debug\VControlWClient.exe.config
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\bin\Debug\VControlWClient.exe
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\bin\Debug\VControlWClient.pdb
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\obj\Debug\VControlWClient.csprojResolveAssemblyReference.cache
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\obj\Debug\VControlWClient.Form1.resources
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\obj\Debug\VControlWClient.Properties.Resources.resources
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\obj\Debug\VControlWClient.csproj.GenerateResource.Cache
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\obj\Debug\VControlWClient.exe
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\obj\Debug\VControlWClient.pdb
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\bin\Debug\Newtonsoft.Json.dll
+c:\users\blaze\documents\visual studio 2015\Projects\VControlWClient\VControlWClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\blaze\Documents\Visual Studio 2015\Projects\VControlWClient\VControlWClient\bin\Debug\NAudio.dll
+C:\Users\blaze\Documents\Visual Studio 2015\Projects\VControlWClient\VControlWClient\bin\Debug\NAudio.xml
